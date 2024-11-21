@@ -1,0 +1,31 @@
+export const tamil ={
+
+    profilePhoto: 'ப்ரொஃபைல் புகைப்படம்',
+    chooseOption: 'ஒரு விருப்பத்தை தேர்வு செய்யவும்',
+    openCamera: 'காமராவைத் திறக்கவும்',
+    openGallery: 'கேலரியைத் திறக்கவும்',
+    openFileManager: 'கோப்பு மேலாண்மையைத் திறக்கவும்',
+    cancel: 'ரத்து செய்யவும்',
+    triggerNotification: 'அறிவிப்பு உருவாக்கவும்',
+    layout: 'தளவமைப்பு',
+        themes: 'தீம்கள்',
+        sound: 'ஒலி',
+        storedata: 'ஸ்டோர் டேட்டா',
+        acceptanceofUse: 'பயன்பாட்டை ஏற்றுக்கொள்வது',
+        logout: 'வெளியேறு',
+        subtotal: 'துணைத்தொகை',
+        tax: 'வரி',
+        total: 'மொத்தம்',
+        checkout: 'செக்அவுட்',
+        paymentMethod: 'பணம் செலுத்தும் முறை',
+        cash: 'பணம்',
+        card: 'அட்டை',
+        name: 'பெயர்',
+        email: 'மின்னஞ்சல்',
+        address: 'முகவரி',
+        city: 'நகரம்',
+        country: 'நாடு',     
+        pay: 'செலுத்து',
+        settings:"அமைப்புகள்"
+
+}
